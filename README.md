@@ -1,2 +1,2 @@
 # Real-Time-Bus-Tracker
-Bus stops from MIT to Harvard
+Map showing how many bus stops there are in the beautiful Cambridge area between MIT and Harvard.
